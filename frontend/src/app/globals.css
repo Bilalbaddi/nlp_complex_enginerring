@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 210 20% 98%;
+  --foreground: 222 30% 12%;
+  --card: 0 0% 100%;
+  --border: 214 20% 88%;
+  --muted: 214 20% 94%;
+  --muted-foreground: 215 14% 38%;
+  --primary: 217 71% 33%;
+  --primary-foreground: 0 0% 100%;
+  --destructive: 0 72% 40%;
+  --success: 142 64% 24%;
+  --warning: 30 90% 33%;
+  --chart-1: 217 71% 40%;
+  --chart-2: 172 66% 28%;
+  --chart-3: 32 90% 40%;
+  --chart-4: 280 45% 45%;
+  --chart-5: 340 65% 42%;
+  --chart-grid: 214 20% 86%;
+}
+
+.dark {
+  --background: 222 28% 9%;
+  --foreground: 210 20% 96%;
+  --card: 222 26% 13%;
+  --border: 222 18% 24%;
+  --muted: 222 20% 18%;
+  --muted-foreground: 215 16% 70%;
+  --primary: 213 90% 66%;
+  --primary-foreground: 222 30% 10%;
+  --destructive: 0 84% 68%;
+  --success: 142 55% 58%;
+  --warning: 38 92% 62%;
+  --chart-1: 213 90% 66%;
+  --chart-2: 172 60% 52%;
+  --chart-3: 38 92% 62%;
+  --chart-4: 280 60% 72%;
+  --chart-5: 340 80% 70%;
+  --chart-grid: 222 18% 26%;
+}
+
+* {
+  @apply border-border;
+}
+
+body {
+  @apply bg-background text-foreground antialiased;
+}
+
+/* keyboard focus is always visible (accessibility) */
+:focus-visible {
+  @apply outline-2 outline-offset-2 outline-primary;
+}
+
+.leaflet-container {
+  font-family: inherit;
+  background: hsl(var(--muted));
+}
+
+/* print / "Save as PDF" for the Reports page */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #fff;
+    color: #000;
+  }
+  .print-area {
+    border: none !important;
+    box-shadow: none !important;
+  }
+}

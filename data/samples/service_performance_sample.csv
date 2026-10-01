@@ -1,0 +1,201 @@
+department,ward,period,complaints_received,complaints_resolved,sla_breaches,avg_resolution_hours,staff_count,budget_spent
+Water Supply Department,Shivaji Nagar,2023-10-01,12,11,3,39.9,6,247972.0
+Water Supply Department,Shivaji Nagar,2023-11-01,5,5,1,71.5,5,196131.0
+Water Supply Department,Shivaji Nagar,2023-12-01,13,13,3,40.2,5,172039.0
+Water Supply Department,Shivaji Nagar,2024-01-01,16,15,3,34.2,6,240544.0
+Water Supply Department,Shivaji Nagar,2024-02-01,13,13,1,28.1,5,189861.0
+Water Supply Department,Shivaji Nagar,2024-03-01,9,9,2,35.2,4,152299.0
+Water Supply Department,Shivaji Nagar,2024-04-01,14,14,5,39.2,5,208484.0
+Water Supply Department,Shivaji Nagar,2024-05-01,19,18,4,27.6,5,212965.0
+Water Supply Department,Shivaji Nagar,2024-06-01,6,6,2,48.3,5,172300.0
+Water Supply Department,Shivaji Nagar,2024-07-01,13,13,3,38.6,6,219661.0
+Water Supply Department,Shivaji Nagar,2024-08-01,6,6,1,33.0,4,146617.0
+Water Supply Department,Shivaji Nagar,2024-09-01,3,3,0,28.9,4,171807.0
+Water Supply Department,Shivaji Nagar,2024-10-01,20,20,3,36.9,5,188636.0
+Water Supply Department,Shivaji Nagar,2024-11-01,11,11,2,40.2,4,147579.0
+Water Supply Department,Shivaji Nagar,2024-12-01,20,20,8,42.6,6,206394.0
+Water Supply Department,Shivaji Nagar,2025-01-01,8,8,3,48.8,6,206580.0
+Water Supply Department,Shivaji Nagar,2025-02-01,4,4,1,35.4,6,242350.0
+Water Supply Department,Shivaji Nagar,2025-03-01,12,12,3,59.3,5,214764.0
+Water Supply Department,Shivaji Nagar,2025-04-01,21,20,8,39.8,6,223308.0
+Water Supply Department,Shivaji Nagar,2025-05-01,15,14,5,40.3,5,180097.0
+Water Supply Department,Shivaji Nagar,2025-06-01,9,8,1,25.8,6,211748.0
+Water Supply Department,Shivaji Nagar,2025-07-01,9,8,3,33.8,4,156268.0
+Water Supply Department,Shivaji Nagar,2025-08-01,18,18,1,27.5,6,257658.0
+Water Supply Department,Shivaji Nagar,2025-09-01,10,10,0,24.4,6,234975.0
+Water Supply Department,Shivaji Nagar,2025-10-01,11,11,4,45.0,4,148969.0
+Water Supply Department,Shivaji Nagar,2025-11-01,11,11,5,40.1,4,146827.0
+Water Supply Department,Shivaji Nagar,2025-12-01,13,13,2,39.2,5,188665.0
+Water Supply Department,Shivaji Nagar,2026-01-01,15,15,4,30.8,4,156137.0
+Water Supply Department,Shivaji Nagar,2026-02-01,12,11,3,32.7,5,214653.0
+Water Supply Department,Shivaji Nagar,2026-03-01,9,9,2,41.5,4,144593.0
+Water Supply Department,Shivaji Nagar,2026-04-01,26,26,4,33.1,5,204753.0
+Water Supply Department,Shivaji Nagar,2026-05-01,16,16,6,44.2,5,207193.0
+Water Supply Department,Shivaji Nagar,2026-06-01,11,11,1,25.4,5,190903.0
+Water Supply Department,Shivaji Nagar,2026-07-01,13,13,5,51.8,5,187825.0
+Water Supply Department,Shivaji Nagar,2026-08-01,8,8,1,34.3,5,186266.0
+Water Supply Department,Shivaji Nagar,2026-09-01,16,16,3,33.7,4,155449.0
+Water Supply Department,Gandhi Chowk,2023-10-01,11,11,3,52.6,2,86343.0
+Water Supply Department,Gandhi Chowk,2023-11-01,7,7,4,45.6,4,149177.0
+Water Supply Department,Gandhi Chowk,2023-12-01,7,7,1,32.1,2,85362.0
+Water Supply Department,Gandhi Chowk,2024-01-01,8,8,1,31.6,4,153458.0
+Water Supply Department,Gandhi Chowk,2024-02-01,9,9,1,34.2,4,143562.0
+Water Supply Department,Gandhi Chowk,2024-03-01,6,6,0,27.4,3,112273.0
+Water Supply Department,Gandhi Chowk,2024-04-01,12,11,5,40.1,4,161429.0
+Water Supply Department,Gandhi Chowk,2024-05-01,21,20,3,33.4,3,104202.0
+Water Supply Department,Gandhi Chowk,2024-06-01,13,12,5,32.9,3,110850.0
+Water Supply Department,Gandhi Chowk,2024-07-01,7,7,0,22.5,3,105927.0
+Water Supply Department,Gandhi Chowk,2024-08-01,7,7,3,54.4,4,144186.0
+Water Supply Department,Gandhi Chowk,2024-09-01,3,3,2,92.3,2,79505.0
+Water Supply Department,Gandhi Chowk,2024-10-01,6,5,1,28.4,3,107316.0
+Water Supply Department,Gandhi Chowk,2024-11-01,7,7,3,38.6,2,74699.0
+Water Supply Department,Gandhi Chowk,2024-12-01,9,9,2,43.9,3,123056.0
+Water Supply Department,Gandhi Chowk,2025-01-01,6,6,0,26.3,2,71241.0
+Water Supply Department,Gandhi Chowk,2025-02-01,7,7,1,53.6,2,83140.0
+Water Supply Department,Gandhi Chowk,2025-03-01,12,12,2,37.2,4,144152.0
+Water Supply Department,Gandhi Chowk,2025-04-01,12,12,4,46.5,2,73864.0
+Water Supply Department,Gandhi Chowk,2025-05-01,20,20,5,52.0,3,123769.0
+Water Supply Department,Gandhi Chowk,2025-06-01,9,8,4,40.3,4,159309.0
+Water Supply Department,Gandhi Chowk,2025-07-01,8,8,1,44.4,2,79670.0
+Water Supply Department,Gandhi Chowk,2025-08-01,8,8,2,32.9,2,70558.0
+Water Supply Department,Gandhi Chowk,2025-09-01,8,8,2,35.2,4,161985.0
+Water Supply Department,Gandhi Chowk,2025-10-01,11,10,2,26.0,2,69336.0
+Water Supply Department,Gandhi Chowk,2025-11-01,17,17,2,34.9,3,120998.0
+Water Supply Department,Gandhi Chowk,2025-12-01,15,15,4,45.7,4,166440.0
+Water Supply Department,Gandhi Chowk,2026-01-01,10,10,1,32.2,4,165279.0
+Water Supply Department,Gandhi Chowk,2026-02-01,8,8,0,22.9,2,79194.0
+Water Supply Department,Gandhi Chowk,2026-03-01,9,9,3,35.3,4,159368.0
+Water Supply Department,Gandhi Chowk,2026-04-01,21,21,5,33.6,2,80538.0
+Water Supply Department,Gandhi Chowk,2026-05-01,17,17,3,31.7,3,107636.0
+Water Supply Department,Gandhi Chowk,2026-06-01,12,11,3,35.4,4,144701.0
+Water Supply Department,Gandhi Chowk,2026-07-01,7,6,2,40.7,4,150386.0
+Water Supply Department,Gandhi Chowk,2026-08-01,6,6,2,37.9,4,147635.0
+Water Supply Department,Gandhi Chowk,2026-09-01,11,11,3,45.7,2,72958.0
+Water Supply Department,Lakshmi Colony,2023-10-01,6,6,2,39.0,3,106283.0
+Water Supply Department,Lakshmi Colony,2023-11-01,12,12,1,18.0,4,150702.0
+Water Supply Department,Lakshmi Colony,2023-12-01,7,7,0,19.4,3,109343.0
+Water Supply Department,Lakshmi Colony,2024-01-01,12,12,1,40.4,3,116353.0
+Water Supply Department,Lakshmi Colony,2024-02-01,5,5,1,43.4,4,166071.0
+Water Supply Department,Lakshmi Colony,2024-03-01,9,9,0,23.9,4,141729.0
+Water Supply Department,Lakshmi Colony,2024-04-01,14,14,0,19.6,5,195751.0
+Water Supply Department,Lakshmi Colony,2024-05-01,12,12,1,27.4,4,171343.0
+Water Supply Department,Lakshmi Colony,2024-06-01,14,14,6,39.2,4,173903.0
+Water Supply Department,Lakshmi Colony,2024-07-01,6,6,0,17.2,4,141315.0
+Water Supply Department,Lakshmi Colony,2024-08-01,3,3,0,28.6,5,199668.0
+Water Supply Department,Lakshmi Colony,2024-09-01,5,5,1,31.9,3,130044.0
+Water Supply Department,Lakshmi Colony,2024-10-01,7,7,0,24.0,4,146373.0
+Water Supply Department,Lakshmi Colony,2024-11-01,3,3,0,19.3,3,125337.0
+Water Supply Department,Lakshmi Colony,2024-12-01,4,4,1,29.4,5,214687.0
+Water Supply Department,Lakshmi Colony,2025-01-01,9,9,0,23.1,3,112768.0
+Water Supply Department,Lakshmi Colony,2025-02-01,7,7,0,18.0,5,187499.0
+Water Supply Department,Lakshmi Colony,2025-03-01,9,9,1,23.7,3,106649.0
+Water Supply Department,Lakshmi Colony,2025-04-01,6,6,0,26.5,4,139817.0
+Water Supply Department,Lakshmi Colony,2025-05-01,23,23,5,28.7,4,165615.0
+Water Supply Department,Lakshmi Colony,2025-06-01,20,20,2,27.0,4,170646.0
+Water Supply Department,Lakshmi Colony,2025-07-01,8,8,1,21.9,3,127239.0
+Water Supply Department,Lakshmi Colony,2025-08-01,6,6,1,23.4,3,109666.0
+Water Supply Department,Lakshmi Colony,2025-09-01,9,9,0,25.3,3,111869.0
+Water Supply Department,Lakshmi Colony,2025-10-01,13,13,0,22.3,4,146022.0
+Water Supply Department,Lakshmi Colony,2025-11-01,10,10,0,25.4,5,201340.0
+Water Supply Department,Lakshmi Colony,2025-12-01,14,14,4,32.6,5,182233.0
+Water Supply Department,Lakshmi Colony,2026-01-01,14,14,1,25.7,3,108863.0
+Water Supply Department,Lakshmi Colony,2026-02-01,9,9,2,38.1,5,182331.0
+Water Supply Department,Lakshmi Colony,2026-03-01,17,17,0,25.5,4,173324.0
+Water Supply Department,Lakshmi Colony,2026-04-01,15,15,1,25.8,5,186908.0
+Water Supply Department,Lakshmi Colony,2026-05-01,16,16,2,38.3,3,115726.0
+Water Supply Department,Lakshmi Colony,2026-06-01,9,9,2,29.8,3,109203.0
+Water Supply Department,Lakshmi Colony,2026-07-01,11,11,3,40.8,4,143104.0
+Water Supply Department,Lakshmi Colony,2026-08-01,4,4,0,24.4,5,216952.0
+Water Supply Department,Lakshmi Colony,2026-09-01,6,4,0,38.4,3,115538.0
+Water Supply Department,Nehru Park,2023-09-01,1,1,0,17.6,7,294566.0
+Water Supply Department,Nehru Park,2023-10-01,17,17,3,36.1,7,275602.0
+Water Supply Department,Nehru Park,2023-11-01,5,5,1,32.2,5,180271.0
+Water Supply Department,Nehru Park,2023-12-01,9,8,5,49.5,7,243522.0
+Water Supply Department,Nehru Park,2024-01-01,8,8,2,47.2,6,222444.0
+Water Supply Department,Nehru Park,2024-02-01,5,5,1,39.0,6,208090.0
+Water Supply Department,Nehru Park,2024-03-01,13,12,4,36.6,6,218542.0
+Water Supply Department,Nehru Park,2024-04-01,20,19,3,27.3,6,242860.0
+Water Supply Department,Nehru Park,2024-05-01,22,22,5,31.9,5,211131.0
+Water Supply Department,Nehru Park,2024-06-01,15,15,3,35.1,6,245288.0
+Water Supply Department,Nehru Park,2024-07-01,16,16,4,37.4,7,295186.0
+Water Supply Department,Nehru Park,2024-08-01,9,9,5,51.2,6,233360.0
+Water Supply Department,Nehru Park,2024-09-01,8,8,1,33.5,7,260994.0
+Water Supply Department,Nehru Park,2024-10-01,7,6,3,58.9,6,209227.0
+Water Supply Department,Nehru Park,2024-11-01,16,16,6,51.7,5,189363.0
+Water Supply Department,Nehru Park,2024-12-01,11,11,3,41.6,5,217434.0
+Water Supply Department,Nehru Park,2025-01-01,7,7,2,38.3,6,236097.0
+Water Supply Department,Nehru Park,2025-02-01,12,12,1,25.8,6,261158.0
+Water Supply Department,Nehru Park,2025-03-01,9,9,0,25.3,6,207099.0
+Water Supply Department,Nehru Park,2025-04-01,17,17,3,41.7,6,233271.0
+Water Supply Department,Nehru Park,2025-05-01,17,17,3,48.5,7,246500.0
+Water Supply Department,Nehru Park,2025-06-01,13,13,2,30.5,5,173793.0
+Water Supply Department,Nehru Park,2025-07-01,7,7,2,44.1,6,208366.0
+Water Supply Department,Nehru Park,2025-08-01,6,6,0,20.2,6,226898.0
+Water Supply Department,Nehru Park,2025-09-01,5,5,0,21.4,6,210942.0
+Water Supply Department,Nehru Park,2025-10-01,7,7,2,28.3,7,261860.0
+Water Supply Department,Nehru Park,2025-11-01,15,15,2,33.3,7,283257.0
+Water Supply Department,Nehru Park,2025-12-01,11,11,1,36.3,6,213621.0
+Water Supply Department,Nehru Park,2026-01-01,12,12,1,34.7,6,209647.0
+Water Supply Department,Nehru Park,2026-02-01,9,9,1,27.7,7,270072.0
+Water Supply Department,Nehru Park,2026-03-01,13,13,3,49.9,6,219553.0
+Water Supply Department,Nehru Park,2026-04-01,16,16,1,26.5,5,181501.0
+Water Supply Department,Nehru Park,2026-05-01,17,17,8,50.8,5,175567.0
+Water Supply Department,Nehru Park,2026-06-01,9,9,0,20.5,7,248689.0
+Water Supply Department,Nehru Park,2026-07-01,16,16,1,30.6,7,246598.0
+Water Supply Department,Nehru Park,2026-08-01,9,9,1,29.1,6,252578.0
+Water Supply Department,Nehru Park,2026-09-01,15,14,3,31.4,7,242666.0
+Water Supply Department,Ambedkar Nagar,2023-10-01,8,8,5,86.6,2,80039.0
+Water Supply Department,Ambedkar Nagar,2023-11-01,6,5,5,126.0,4,169333.0
+Water Supply Department,Ambedkar Nagar,2023-12-01,13,12,7,78.7,2,73100.0
+Water Supply Department,Ambedkar Nagar,2024-01-01,12,12,8,59.8,2,71090.0
+Water Supply Department,Ambedkar Nagar,2024-02-01,4,4,3,82.4,2,77805.0
+Parks & Gardens Department,,2025-09-01,45,44,23,165.9,85,3321325.0
+Parks & Gardens Department,,2025-10-01,69,68,29,181.9,89,3515245.0
+Parks & Gardens Department,,2025-11-01,78,74,41,197.6,103,4042394.0
+Parks & Gardens Department,,2025-12-01,90,90,35,173.1,92,3614218.0
+Parks & Gardens Department,,2026-01-01,58,57,26,171.6,83,3192241.0
+Parks & Gardens Department,,2026-02-01,47,47,17,183.7,88,3498612.0
+Parks & Gardens Department,,2026-03-01,61,60,16,152.4,90,3531604.0
+Parks & Gardens Department,,2026-04-01,70,70,19,171.1,92,3660386.0
+Parks & Gardens Department,,2026-05-01,83,83,41,185.0,97,3808180.0
+Parks & Gardens Department,,2026-06-01,46,45,23,178.3,92,3505994.0
+Parks & Gardens Department,,2026-07-01,47,47,23,196.0,87,3449877.0
+Parks & Gardens Department,,2026-08-01,57,56,25,177.8,98,3893561.0
+Parks & Gardens Department,,2026-09-01,59,38,24,134.1,87,3327265.0
+Pollution Control Department,,2023-09-01,6,6,2,40.3,30,1193367.0
+Pollution Control Department,,2023-10-01,132,130,69,67.1,98,3747409.0
+Pollution Control Department,,2023-11-01,95,93,54,63.7,102,4025995.0
+Pollution Control Department,,2023-12-01,68,67,33,75.0,95,3875630.0
+Pollution Control Department,,2024-01-01,61,59,31,59.9,95,3666662.0
+Pollution Control Department,,2024-02-01,72,70,40,67.7,108,4056407.0
+Pollution Control Department,,2024-03-01,66,63,37,60.6,102,3881481.0
+Pollution Control Department,,2024-04-01,54,54,34,68.8,85,3335564.0
+Pollution Control Department,,2024-05-01,52,52,32,66.1,99,3689918.0
+Pollution Control Department,,2024-06-01,58,58,29,69.9,95,3599571.0
+Pollution Control Department,,2024-07-01,64,62,40,72.9,82,3168421.0
+Pollution Control Department,,2024-08-01,70,68,35,56.3,87,3359833.0
+Pollution Control Department,,2024-09-01,111,110,51,54.7,100,3985520.0
+Pollution Control Department,,2024-10-01,158,156,91,69.0,101,3891826.0
+Pollution Control Department,,2024-11-01,100,98,56,66.2,99,3832069.0
+Pollution Control Department,,2024-12-01,80,79,46,79.1,102,4030929.0
+Pollution Control Department,,2025-01-01,92,92,49,65.9,104,4124620.0
+Pollution Control Department,,2025-02-01,69,68,39,70.2,99,3908971.0
+Pollution Control Department,,2025-03-01,71,70,39,60.5,87,3381632.0
+Pollution Control Department,,2025-04-01,69,67,36,62.7,94,3661395.0
+Pollution Control Department,,2025-05-01,65,65,34,62.7,98,3867203.0
+Pollution Control Department,,2025-06-01,58,57,31,67.8,96,3834380.0
+Pollution Control Department,,2025-07-01,75,74,40,74.4,92,3618330.0
+Pollution Control Department,,2025-08-01,70,68,37,65.9,99,3809170.0
+Pollution Control Department,,2025-09-01,124,124,63,63.2,102,4018502.0
+Pollution Control Department,,2025-10-01,154,153,82,66.0,103,4008944.0
+Pollution Control Department,,2025-11-01,90,90,61,72.3,96,3830848.0
+Pollution Control Department,,2025-12-01,75,74,36,58.0,100,3891059.0
+Pollution Control Department,,2026-01-01,71,70,34,62.9,85,3419411.0
+Pollution Control Department,,2026-02-01,75,74,38,65.2,82,3286925.0
+Pollution Control Department,,2026-03-01,61,61,29,64.5,93,3709776.0
+Pollution Control Department,,2026-04-01,76,76,42,67.8,96,3810275.0
+Pollution Control Department,,2026-05-01,61,60,30,57.9,104,4040037.0
+Pollution Control Department,,2026-06-01,61,59,30,60.3,106,4036901.0
+Pollution Control Department,,2026-07-01,77,75,40,57.7,96,3641093.0
+Pollution Control Department,,2026-08-01,79,76,45,69.5,88,3488322.0
+Pollution Control Department,,2026-09-01,141,124,70,60.9,102,3891788.0

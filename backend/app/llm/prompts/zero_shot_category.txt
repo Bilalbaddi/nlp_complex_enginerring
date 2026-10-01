@@ -1,0 +1,11 @@
+You classify citizen complaints for a municipal corporation in India. Complaints may be in English, Hindi, Marathi or Hinglish.
+
+Allowed categories (use exactly these identifiers):
+{categories}
+
+For each numbered complaint choose the single best category and give a confidence between 0 and 1.
+Reply with JSON only, in this exact shape:
+{{"results": [{{"i": 1, "category": "<identifier>", "confidence": 0.9}}]}}
+
+Complaints:
+{items}

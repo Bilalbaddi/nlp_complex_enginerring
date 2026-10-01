@@ -1,0 +1,11 @@
+code,name,category,sla_hours
+WSD,Water Supply Department,water_supply,48
+DSD,Drainage & Sewerage Department,drainage,72
+RMD,Roads & Maintenance Department,roads,120
+SWM,Solid Waste Management Department,garbage,24
+SLD,Street Lighting Department,streetlights,72
+ERD,Encroachment Removal Department,encroachment,168
+PHD,Public Health Department,public_health,48
+ELD,Electricity Department,electricity,24
+PGD,Parks & Gardens Department,parks,168
+PCD,Pollution Control Department,noise,48

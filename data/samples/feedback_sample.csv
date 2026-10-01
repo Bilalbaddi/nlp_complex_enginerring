@@ -1,0 +1,201 @@
+complaint_external_id,ward,department,rating,text,language,channel,submitted_at
+CMP-2023-000001,Tilak Road,Roads & Maintenance Department,3,"Work done partially, need a follow-up",en,complaint_followup,2023-10-09T08:44:16+05:30
+CMP-2023-000002,Old City,Roads & Maintenance Department,3,समस्या सुटली पण अपेक्षेपेक्षा जास्त वेळ लागला,mr,complaint_followup,2023-10-11T20:32:00+05:30
+CMP-2023-000008,Old City,Drainage & Sewerage Department,3,,en,complaint_followup,2023-10-05T19:29:45+05:30
+CMP-2023-000009,Green Valley,Electricity Department,4,,hi,complaint_followup,2023-10-03T09:27:31+05:30
+CMP-2023-000012,Green Valley,Public Health Department,5,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-03T19:33:43+05:30
+CMP-2023-000013,Old City,Drainage & Sewerage Department,1,Complaint was not resolved even after several reminders,en,complaint_followup,2023-10-11T11:00:49+05:30
+CMP-2023-000014,Gandhi Chowk,Drainage & Sewerage Department,4,"समस्या जल्दी सुलझ गई, धन्यवाद",hi,complaint_followup,2023-10-03T02:18:00+05:30
+CMP-2023-000018,Green Valley,Water Supply Department,5,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-03T02:08:46+05:30
+CMP-2023-000024,Tilak Road,Drainage & Sewerage Department,3,समस्या सुटली पण अपेक्षेपेक्षा जास्त वेळ लागला,mr,complaint_followup,2023-10-06T04:27:51+05:30
+CMP-2023-000026,Gandhi Chowk,Street Lighting Department,5,"Ward staff ki turant action, bahut khush hoon",hinglish,complaint_followup,2023-10-02T20:46:01+05:30
+CMP-2023-000027,Sahyadri Heights,Public Health Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-04T14:23:42+05:30
+CMP-2023-000033,Sai Vihar,Roads & Maintenance Department,1,अनेकदा आठवण करून देऊनही तक्रारीचे निराकरण झाले नाही,mr,complaint_followup,2023-10-16T06:12:19+05:30
+CMP-2023-000035,Kasturba Nagar,Drainage & Sewerage Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-05T14:27:13+05:30
+CMP-2023-000036,Rani Laxmibai Nagar,Electricity Department,5,"समस्या जल्दी सुलझ गई, धन्यवाद",hi,complaint_followup,2023-10-04T02:09:02+05:30
+CMP-2023-000038,College Road,Water Supply Department,3,Problem solve hui lekin promise se zyada time laga,hinglish,complaint_followup,2023-10-03T15:03:22+05:30
+CMP-2023-000040,Sahyadri Heights,Roads & Maintenance Department,4,"Problem jaldi solve ho gayi, thank you",hinglish,complaint_followup,2023-10-09T07:27:32+05:30
+CMP-2023-000045,Shivaji Nagar,Pollution Control Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-02T20:21:44+05:30
+CMP-2023-000047,Green Valley,Electricity Department,5,"Good service, the team was courteous",en,complaint_followup,2023-10-02T14:07:11+05:30
+CMP-2023-000049,Gandhi Chowk,Public Health Department,5,,mr,complaint_followup,2023-10-03T05:57:07+05:30
+CMP-2023-000052,Rani Laxmibai Nagar,Electricity Department,4,"Problem jaldi solve ho gayi, thank you",hinglish,complaint_followup,2023-10-04T14:34:05+05:30
+CMP-2023-000053,Rani Laxmibai Nagar,Electricity Department,4,,hinglish,complaint_followup,2023-10-04T22:25:06+05:30
+CMP-2023-000055,Old City,Street Lighting Department,3,,en,complaint_followup,2023-10-05T18:19:52+05:30
+CMP-2023-000062,College Road,Pollution Control Department,3,समस्या सुटली पण अपेक्षेपेक्षा जास्त वेळ लागला,mr,complaint_followup,2023-10-03T18:48:55+05:30
+CMP-2023-000066,Nehru Park,Roads & Maintenance Department,5,"वार्ड कर्मचारियों की त्वरित कार्रवाई, बहुत संतुष्ट हूं",hi,complaint_followup,2023-10-06T05:46:44+05:30
+CMP-2023-000071,Old City,Roads & Maintenance Department,4,"Problem jaldi solve ho gayi, thank you",hinglish,complaint_followup,2023-10-09T09:31:00+05:30
+CMP-2023-000076,Old City,Roads & Maintenance Department,4,"वार्ड कर्मचारियों की त्वरित कार्रवाई, बहुत संतुष्ट हूं",hi,complaint_followup,2023-10-09T22:00:33+05:30
+CMP-2023-000079,Gandhi Chowk,Solid Waste Management Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-02T16:52:21+05:30
+CMP-2023-000082,Subhash Nagar,Water Supply Department,3,,hi,complaint_followup,2023-10-06T05:22:21+05:30
+CMP-2023-000084,Old City,Drainage & Sewerage Department,3,,mr,complaint_followup,2023-10-03T04:19:34+05:30
+CMP-2023-000086,Lakshmi Colony,Solid Waste Management Department,4,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-02T18:31:17+05:30
+CMP-2023-000094,Green Valley,Electricity Department,4,"समस्या लवकर सुटली, धन्यवाद",mr,complaint_followup,2023-10-04T14:20:07+05:30
+CMP-2023-000097,Subhash Nagar,Roads & Maintenance Department,5,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-06T13:08:19+05:30
+CMP-2023-000099,Old City,Pollution Control Department,5,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-04T17:14:52+05:30
+CMP-2023-000102,Ambedkar Nagar,Pollution Control Department,4,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-06T01:41:07+05:30
+CMP-2023-000104,College Road,Electricity Department,3,,hinglish,complaint_followup,2023-10-05T20:56:25+05:30
+CMP-2023-000106,Nehru Park,Water Supply Department,5,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-04T06:30:37+05:30
+CMP-2023-000109,College Road,Electricity Department,4,,en,complaint_followup,2023-10-04T14:11:54+05:30
+CMP-2023-000110,Subhash Nagar,Drainage & Sewerage Department,4,,hinglish,complaint_followup,2023-10-05T05:04:52+05:30
+CMP-2023-000112,Riverside,Roads & Maintenance Department,5,"Good service, the team was courteous",en,complaint_followup,2023-10-10T13:41:35+05:30
+CMP-2023-000118,Tilak Road,Street Lighting Department,3,"Work done partially, need a follow-up",en,complaint_followup,2023-10-06T02:53:58+05:30
+CMP-2023-000120,Market Yard,Solid Waste Management Department,3,समस्या ठीक हुई लेकिन वादे से ज्यादा समय लगा,hi,complaint_followup,2023-10-05T09:02:18+05:30
+CMP-2023-000121,Kasturba Nagar,Roads & Maintenance Department,4,,hi,complaint_followup,2023-10-07T01:24:40+05:30
+CMP-2023-000125,Tilak Road,Drainage & Sewerage Department,2,,en,complaint_followup,2023-10-08T05:22:14+05:30
+CMP-2023-000127,Hanuman Wadi,Street Lighting Department,1,विभागाचा प्रतिसाद खूप संथ आहे,mr,complaint_followup,2023-10-13T23:21:46+05:30
+CMP-2023-000129,Hanuman Wadi,Encroachment Removal Department,2,अनेकदा आठवण करून देऊनही तक्रारीचे निराकरण झाले नाही,mr,complaint_followup,2023-10-16T16:34:32+05:30
+CMP-2023-000139,Tilak Road,Street Lighting Department,3,,en,complaint_followup,2023-10-07T14:18:18+05:30
+CMP-2023-000142,Subhash Nagar,Roads & Maintenance Department,5,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-07T02:14:59+05:30
+CMP-2023-000143,Sahyadri Heights,Street Lighting Department,4,,hi,complaint_followup,2023-10-07T05:12:37+05:30
+CMP-2023-000151,Sahyadri Heights,Roads & Maintenance Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-08T23:21:09+05:30
+CMP-2023-000154,Tilak Road,Encroachment Removal Department,4,,en,complaint_followup,2023-10-12T01:37:10+05:30
+CMP-2023-000155,Nehru Park,Street Lighting Department,4,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-08T20:41:44+05:30
+CMP-2023-000159,Subhash Nagar,Street Lighting Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-06T13:28:32+05:30
+CMP-2023-000161,Subhash Nagar,Solid Waste Management Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-05T14:22:06+05:30
+CMP-2023-000162,Shivaji Nagar,Public Health Department,2,Very slow response from the department,en,complaint_followup,2023-10-07T05:10:51+05:30
+CMP-2023-000164,Green Valley,Roads & Maintenance Department,5,,mr,complaint_followup,2023-10-10T05:52:12+05:30
+CMP-2023-000165,Riverside,Drainage & Sewerage Department,4,,hinglish,complaint_followup,2023-10-05T23:49:45+05:30
+CMP-2023-000166,Riverside,Street Lighting Department,4,,en,complaint_followup,2023-10-06T17:04:50+05:30
+CMP-2023-000167,Tilak Road,Pollution Control Department,3,Issue was fixed but it took longer than promised,en,complaint_followup,2023-10-08T03:38:47+05:30
+CMP-2023-000168,Sahyadri Heights,Roads & Maintenance Department,3,,hi,complaint_followup,2023-10-10T17:27:46+05:30
+CMP-2023-000170,Kasturba Nagar,Public Health Department,4,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-07T01:17:01+05:30
+CMP-2023-000173,Rani Laxmibai Nagar,Encroachment Removal Department,4,"वार्ड कर्मचारियों की त्वरित कार्रवाई, बहुत संतुष्ट हूं",hi,complaint_followup,2023-10-12T18:13:16+05:30
+CMP-2023-000174,Sahyadri Heights,Parks & Gardens Department,4,,hi,complaint_followup,2023-10-07T07:50:03+05:30
+CMP-2023-000176,Gandhi Chowk,Electricity Department,4,"वार्ड कर्मचारियों की त्वरित कार्रवाई, बहुत संतुष्ट हूं",hi,complaint_followup,2023-10-06T09:35:22+05:30
+CMP-2023-000178,Subhash Nagar,Pollution Control Department,4,,en,complaint_followup,2023-10-06T12:21:35+05:30
+CMP-2023-000179,College Road,Solid Waste Management Department,3,"Work done partially, need a follow-up",en,complaint_followup,2023-10-04T11:42:23+05:30
+CMP-2023-000181,Market Yard,Solid Waste Management Department,5,,hi,complaint_followup,2023-10-06T05:16:02+05:30
+CMP-2023-000182,Tilak Road,Drainage & Sewerage Department,4,"Ward staff ki turant action, bahut khush hoon",hinglish,complaint_followup,2023-10-10T00:19:21+05:30
+CMP-2023-000184,Market Yard,Solid Waste Management Department,5,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-06T14:27:19+05:30
+CMP-2023-000186,Green Valley,Pollution Control Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-05T21:44:18+05:30
+CMP-2023-000187,Railway Colony,Roads & Maintenance Department,5,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-09T13:00:36+05:30
+CMP-2023-000188,Green Valley,Pollution Control Department,5,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-08T22:37:01+05:30
+CMP-2023-000191,Sai Vihar,Roads & Maintenance Department,3,,mr,complaint_followup,2023-10-16T08:35:37+05:30
+CMP-2023-000193,Ganesh Peth,Water Supply Department,3,,en,complaint_followup,2023-10-08T16:19:52+05:30
+CMP-2023-000197,Nehru Park,Roads & Maintenance Department,4,,hinglish,complaint_followup,2023-10-08T22:16:52+05:30
+CMP-2023-000198,Riverside,Encroachment Removal Department,4,,hinglish,complaint_followup,2023-10-13T17:27:46+05:30
+CMP-2023-000200,Kasturba Nagar,Pollution Control Department,2,,en,complaint_followup,2023-10-08T19:57:37+05:30
+CMP-2023-000205,Sahyadri Heights,Street Lighting Department,3,,en,complaint_followup,2023-10-10T11:46:08+05:30
+CMP-2023-000206,Old City,Solid Waste Management Department,4,,en,complaint_followup,2023-10-07T22:32:43+05:30
+CMP-2023-000208,Sai Vihar,Pollution Control Department,4,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-14T06:34:14+05:30
+CMP-2023-000209,Tilak Road,Electricity Department,5,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-06T23:13:59+05:30
+CMP-2023-000211,Rani Laxmibai Nagar,Electricity Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-07T00:29:55+05:30
+CMP-2023-000212,Gandhi Chowk,Solid Waste Management Department,5,"Ward staff ki turant action, bahut khush hoon",hinglish,complaint_followup,2023-10-07T21:29:37+05:30
+CMP-2023-000214,Gandhi Chowk,Roads & Maintenance Department,5,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-08T04:40:42+05:30
+CMP-2023-000218,Ganesh Peth,Pollution Control Department,2,विभागाचा प्रतिसाद खूप संथ आहे,mr,complaint_followup,2023-10-09T06:36:17+05:30
+CMP-2023-000223,Tilak Road,Electricity Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-07T06:27:36+05:30
+CMP-2023-000226,Railway Colony,Roads & Maintenance Department,3,समस्या ठीक हुई लेकिन वादे से ज्यादा समय लगा,hi,complaint_followup,2023-10-07T13:53:39+05:30
+CMP-2023-000228,Shivaji Nagar,Street Lighting Department,3,,hinglish,complaint_followup,2023-10-07T07:29:20+05:30
+CMP-2023-000229,Shivaji Nagar,Water Supply Department,5,"Ward staff ki turant action, bahut khush hoon",hinglish,complaint_followup,2023-10-06T23:04:56+05:30
+CMP-2023-000231,College Road,Solid Waste Management Department,2,विभागाचा प्रतिसाद खूप संथ आहे,mr,complaint_followup,2023-10-08T10:07:01+05:30
+CMP-2023-000233,Tilak Road,Water Supply Department,3,,hinglish,complaint_followup,2023-10-10T05:56:41+05:30
+CMP-2023-000236,Industrial Estate,Electricity Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-06T11:53:11+05:30
+CMP-2023-000238,Market Yard,Pollution Control Department,3,Issue was fixed but it took longer than promised,en,complaint_followup,2023-10-09T05:47:12+05:30
+CMP-2023-000240,Riverside,Public Health Department,3,Problem solve hui lekin promise se zyada time laga,hinglish,complaint_followup,2023-10-07T10:51:00+05:30
+CMP-2023-000241,Old City,Roads & Maintenance Department,4,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-07T13:43:36+05:30
+CMP-2023-000242,Lakshmi Colony,Water Supply Department,3,,hinglish,complaint_followup,2023-10-08T11:49:44+05:30
+CMP-2023-000243,Old City,Public Health Department,3,समस्या सुटली पण अपेक्षेपेक्षा जास्त वेळ लागला,mr,complaint_followup,2023-10-08T18:00:25+05:30
+CMP-2023-000248,Market Yard,Roads & Maintenance Department,5,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-07T18:35:50+05:30
+CMP-2023-000250,Rani Laxmibai Nagar,Water Supply Department,5,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-07T19:56:30+05:30
+CMP-2023-000252,College Road,Encroachment Removal Department,2,विभाग का जवाब बहुत धीमा है,hi,complaint_followup,2023-10-28T06:48:15+05:30
+CMP-2023-000253,Kasturba Nagar,Roads & Maintenance Department,4,,hi,complaint_followup,2023-10-09T15:43:37+05:30
+CMP-2023-000254,Shivaji Nagar,Solid Waste Management Department,4,,hinglish,complaint_followup,2023-10-06T12:01:36+05:30
+CMP-2023-000262,Gandhi Chowk,Street Lighting Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-09T10:21:46+05:30
+CMP-2023-000265,Tilak Road,Parks & Gardens Department,3,Issue was fixed but it took longer than promised,en,complaint_followup,2023-10-11T11:16:08+05:30
+CMP-2023-000267,College Road,Pollution Control Department,4,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-07T13:40:26+05:30
+CMP-2023-000270,Ganesh Peth,Public Health Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-09T01:11:22+05:30
+CMP-2023-000275,Green Valley,Solid Waste Management Department,5,"Good service, the team was courteous",en,complaint_followup,2023-10-07T19:03:52+05:30
+CMP-2023-000276,Kasturba Nagar,Solid Waste Management Department,4,"समस्या जल्दी सुलझ गई, धन्यवाद",hi,complaint_followup,2023-10-09T02:28:20+05:30
+CMP-2023-000277,Shivaji Nagar,Street Lighting Department,4,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-10T17:49:30+05:30
+CMP-2023-000284,Subhash Nagar,Street Lighting Department,4,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-09T12:49:12+05:30
+CMP-2023-000285,Subhash Nagar,Roads & Maintenance Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-09T07:32:11+05:30
+CMP-2023-000286,Sahyadri Heights,Drainage & Sewerage Department,3,"Work done partially, need a follow-up",en,complaint_followup,2023-10-12T08:57:41+05:30
+CMP-2023-000289,Sahyadri Heights,Roads & Maintenance Department,4,,en,complaint_followup,2023-10-14T03:57:43+05:30
+CMP-2023-000291,Sai Vihar,Solid Waste Management Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-09T09:22:52+05:30
+CMP-2023-000292,Subhash Nagar,Pollution Control Department,5,,en,complaint_followup,2023-10-09T22:10:38+05:30
+CMP-2023-000294,College Road,Drainage & Sewerage Department,2,Very slow response from the department,en,complaint_followup,2023-10-15T02:02:57+05:30
+CMP-2023-000295,Market Yard,Parks & Gardens Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-10T18:35:00+05:30
+CMP-2023-000301,Tilak Road,Water Supply Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-08T16:31:43+05:30
+CMP-2023-000304,Sai Vihar,Water Supply Department,5,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-09T22:09:57+05:30
+CMP-2023-000305,Green Valley,Electricity Department,4,,en,complaint_followup,2023-10-09T13:03:50+05:30
+CMP-2023-000315,Hanuman Wadi,Water Supply Department,5,"वार्ड कर्मचारियों की त्वरित कार्रवाई, बहुत संतुष्ट हूं",hi,complaint_followup,2023-10-10T10:52:24+05:30
+CMP-2023-000317,College Road,Solid Waste Management Department,4,,en,complaint_followup,2023-10-09T00:03:40+05:30
+CMP-2023-000322,Riverside,Water Supply Department,4,,en,complaint_followup,2023-10-10T07:22:52+05:30
+CMP-2023-000324,Railway Colony,Roads & Maintenance Department,5,"Good service, the team was courteous",en,complaint_followup,2023-10-12T09:37:10+05:30
+CMP-2023-000325,Green Valley,Roads & Maintenance Department,3,Problem solve hui lekin promise se zyada time laga,hinglish,complaint_followup,2023-10-15T15:56:33+05:30
+CMP-2023-000326,Subhash Nagar,Solid Waste Management Department,4,,mr,complaint_followup,2023-10-08T10:24:51+05:30
+CMP-2023-000327,Market Yard,Roads & Maintenance Department,4,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-12T00:00:46+05:30
+CMP-2023-000329,Nehru Park,Water Supply Department,3,"Work done partially, need a follow-up",en,complaint_followup,2023-10-09T08:10:27+05:30
+CMP-2023-000332,College Road,Roads & Maintenance Department,4,"Ward staff ki turant action, bahut khush hoon",hinglish,complaint_followup,2023-10-11T10:00:24+05:30
+CMP-2023-000333,College Road,Pollution Control Department,5,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-10T06:43:47+05:30
+CMP-2023-000334,Sai Vihar,Drainage & Sewerage Department,2,Very slow response from the department,en,complaint_followup,2023-10-13T02:05:20+05:30
+CMP-2023-000338,Gandhi Chowk,Street Lighting Department,4,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-08T11:28:04+05:30
+CMP-2023-000339,Industrial Estate,Electricity Department,3,Issue was fixed but it took longer than promised,en,complaint_followup,2023-10-10T09:56:34+05:30
+CMP-2023-000340,Sahyadri Heights,Street Lighting Department,4,,mr,complaint_followup,2023-10-10T12:10:26+05:30
+CMP-2023-000341,Rani Laxmibai Nagar,Drainage & Sewerage Department,5,"Problem jaldi solve ho gayi, thank you",hinglish,complaint_followup,2023-10-10T03:27:58+05:30
+CMP-2023-000342,Sahyadri Heights,Solid Waste Management Department,5,"Problem jaldi solve ho gayi, thank you",hinglish,complaint_followup,2023-10-09T21:50:13+05:30
+CMP-2023-000344,College Road,Drainage & Sewerage Department,3,Problem solve hui lekin promise se zyada time laga,hinglish,complaint_followup,2023-10-11T23:10:25+05:30
+CMP-2023-000345,Shivaji Nagar,Water Supply Department,3,"Work done partially, need a follow-up",en,complaint_followup,2023-10-11T01:10:14+05:30
+CMP-2023-000347,Market Yard,Roads & Maintenance Department,5,"Ward staff ki turant action, bahut khush hoon",hinglish,complaint_followup,2023-10-14T02:19:12+05:30
+CMP-2023-000348,Subhash Nagar,Roads & Maintenance Department,1,,mr,complaint_followup,2023-10-20T08:41:45+05:30
+CMP-2023-000351,Sahyadri Heights,Water Supply Department,1,Very slow response from the department,en,complaint_followup,2023-10-09T19:43:35+05:30
+CMP-2023-000353,Sai Vihar,Roads & Maintenance Department,4,,en,complaint_followup,2023-10-14T15:05:20+05:30
+CMP-2023-000356,Industrial Estate,Roads & Maintenance Department,5,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-13T21:04:04+05:30
+CMP-2023-000359,Old City,Solid Waste Management Department,4,"समस्या लवकर सुटली, धन्यवाद",mr,complaint_followup,2023-10-08T19:40:33+05:30
+CMP-2023-000361,Subhash Nagar,Pollution Control Department,4,"समस्या लवकर सुटली, धन्यवाद",mr,complaint_followup,2023-10-10T06:38:08+05:30
+CMP-2023-000371,Shivaji Nagar,Public Health Department,3,Problem solve hui lekin promise se zyada time laga,hinglish,complaint_followup,2023-10-13T17:21:47+05:30
+CMP-2023-000373,Ambedkar Nagar,Drainage & Sewerage Department,2,Department ka response bahut slow hai,hinglish,complaint_followup,2023-10-12T12:20:08+05:30
+CMP-2023-000374,Ganesh Peth,Solid Waste Management Department,5,"समस्या लवकर सुटली, धन्यवाद",mr,complaint_followup,2023-10-10T22:00:18+05:30
+CMP-2023-000377,Kasturba Nagar,Public Health Department,5,,hi,complaint_followup,2023-10-11T12:49:06+05:30
+CMP-2023-000378,Sai Vihar,Electricity Department,5,"समस्या लवकर सुटली, धन्यवाद",mr,complaint_followup,2023-10-10T07:07:54+05:30
+CMP-2023-000382,Ambedkar Nagar,Roads & Maintenance Department,3,समस्या सुटली पण अपेक्षेपेक्षा जास्त वेळ लागला,mr,complaint_followup,2023-10-12T19:23:25+05:30
+CMP-2023-000383,Old City,Roads & Maintenance Department,4,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-15T06:44:48+05:30
+CMP-2023-000387,Industrial Estate,Solid Waste Management Department,3,Issue was fixed but it took longer than promised,en,complaint_followup,2023-10-13T05:34:34+05:30
+CMP-2023-000390,College Road,Pollution Control Department,1,Complaint was not resolved even after several reminders,en,complaint_followup,2023-10-15T11:50:41+05:30
+CMP-2023-000393,College Road,Public Health Department,4,,en,complaint_followup,2023-10-13T09:20:07+05:30
+CMP-2023-000396,Lakshmi Colony,Solid Waste Management Department,4,,hinglish,complaint_followup,2023-10-10T15:20:06+05:30
+CMP-2023-000400,Ganesh Peth,Street Lighting Department,4,,en,complaint_followup,2023-10-12T09:58:19+05:30
+CMP-2023-000407,Old City,Roads & Maintenance Department,3,समस्या सुटली पण अपेक्षेपेक्षा जास्त वेळ लागला,mr,complaint_followup,2023-10-14T07:04:16+05:30
+CMP-2023-000409,Hanuman Wadi,Water Supply Department,2,अनेकदा आठवण करून देऊनही तक्रारीचे निराकरण झाले नाही,mr,complaint_followup,2023-10-15T19:00:37+05:30
+CMP-2023-000420,Industrial Estate,Roads & Maintenance Department,3,"Work done partially, need a follow-up",en,complaint_followup,2023-10-16T01:45:10+05:30
+CMP-2023-000423,Ambedkar Nagar,Pollution Control Department,3,समस्या ठीक हुई लेकिन वादे से ज्यादा समय लगा,hi,complaint_followup,2023-10-13T12:09:30+05:30
+CMP-2023-000424,Gandhi Chowk,Encroachment Removal Department,2,Kai baar yaad dilane ke baad bhi complaint solve nahi hui,hinglish,complaint_followup,2023-10-24T02:27:39+05:30
+CMP-2023-000425,Market Yard,Water Supply Department,5,,en,complaint_followup,2023-10-13T00:50:56+05:30
+CMP-2023-000432,Market Yard,Water Supply Department,4,,en,complaint_followup,2023-10-13T07:28:03+05:30
+CMP-2023-000436,College Road,Solid Waste Management Department,5,,en,complaint_followup,2023-10-12T12:46:26+05:30
+CMP-2023-000438,Lakshmi Colony,Roads & Maintenance Department,3,Problem solve hui lekin promise se zyada time laga,hinglish,complaint_followup,2023-10-18T08:26:54+05:30
+CMP-2023-000441,Subhash Nagar,Water Supply Department,4,,mr,complaint_followup,2023-10-13T17:32:00+05:30
+CMP-2023-000443,College Road,Solid Waste Management Department,5,"Good service, the team was courteous",en,complaint_followup,2023-10-11T09:33:43+05:30
+CMP-2023-000449,Market Yard,Parks & Gardens Department,4,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-17T11:49:38+05:30
+CMP-2023-000450,Gandhi Chowk,Water Supply Department,5,"समस्या जल्दी सुलझ गई, धन्यवाद",hi,complaint_followup,2023-10-12T06:13:54+05:30
+CMP-2023-000451,Gandhi Chowk,Solid Waste Management Department,5,"समस्या लवकर सुटली, धन्यवाद",mr,complaint_followup,2023-10-12T01:26:12+05:30
+CMP-2023-000452,Riverside,Public Health Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-14T05:44:51+05:30
+CMP-2023-000457,Gandhi Chowk,Roads & Maintenance Department,5,"Prompt action by the ward staff, very satisfied",en,complaint_followup,2023-10-16T10:33:54+05:30
+CMP-2023-000460,Railway Colony,Pollution Control Department,3,Issue was fixed but it took longer than promised,en,complaint_followup,2023-10-15T18:44:54+05:30
+CMP-2023-000468,Green Valley,Electricity Department,4,"समस्या जल्दी सुलझ गई, धन्यवाद",hi,complaint_followup,2023-10-11T00:26:23+05:30
+CMP-2023-000469,College Road,Pollution Control Department,3,,mr,complaint_followup,2023-10-15T11:19:14+05:30
+CMP-2023-000470,Railway Colony,Street Lighting Department,3,Issue was fixed but it took longer than promised,en,complaint_followup,2023-10-14T10:34:05+05:30
+CMP-2023-000471,Lakshmi Colony,Parks & Gardens Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-15T15:13:04+05:30
+CMP-2023-000473,Sahyadri Heights,Drainage & Sewerage Department,5,"Problem jaldi solve ho gayi, thank you",hinglish,complaint_followup,2023-10-17T08:33:32+05:30
+CMP-2023-000475,Riverside,Street Lighting Department,4,,hi,complaint_followup,2023-10-14T06:44:18+05:30
+CMP-2023-000476,Nehru Park,Water Supply Department,3,Issue was fixed but it took longer than promised,en,complaint_followup,2023-10-12T00:32:52+05:30
+CMP-2023-000480,Sai Vihar,Public Health Department,4,,hinglish,complaint_followup,2023-10-13T17:33:53+05:30
+CMP-2023-000482,Riverside,Public Health Department,5,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-13T23:14:13+05:30
+CMP-2023-000486,Sai Vihar,Solid Waste Management Department,5,,en,complaint_followup,2023-10-13T19:21:47+05:30
+CMP-2023-000487,Nehru Park,Solid Waste Management Department,4,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-11T02:06:12+05:30
+CMP-2023-000491,Old City,Pollution Control Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-12T16:58:48+05:30
+CMP-2023-000492,Industrial Estate,Pollution Control Department,1,Department ka response bahut slow hai,hinglish,complaint_followup,2023-10-17T14:58:35+05:30
+CMP-2023-000494,Ganesh Peth,Water Supply Department,3,"Work done partially, need a follow-up",en,complaint_followup,2023-10-15T18:51:37+05:30
+CMP-2023-000496,College Road,Encroachment Removal Department,4,,mr,complaint_followup,2023-10-20T22:26:49+05:30
+CMP-2023-000499,Kasturba Nagar,Water Supply Department,3,,mr,complaint_followup,2023-10-13T00:11:46+05:30
+CMP-2023-000501,Shivaji Nagar,Roads & Maintenance Department,5,"Problem resolved quickly, thank you",en,complaint_followup,2023-10-13T04:59:02+05:30
+CMP-2023-000503,Old City,Roads & Maintenance Department,5,"Good service, the team was courteous",en,complaint_followup,2023-10-18T00:00:22+05:30
+CMP-2023-000508,Hanuman Wadi,Street Lighting Department,1,Complaint was not resolved even after several reminders,en,complaint_followup,2023-10-20T07:29:39+05:30
+CMP-2023-000510,Rani Laxmibai Nagar,Water Supply Department,4,,en,complaint_followup,2023-10-14T09:25:56+05:30
+CMP-2023-000511,Green Valley,Drainage & Sewerage Department,5,,en,complaint_followup,2023-10-14T20:46:28+05:30
+CMP-2023-000513,Shivaji Nagar,Street Lighting Department,5,"वॉर्ड कर्मचाऱ्यांची तत्पर कारवाई, खूप समाधानी आहे",mr,complaint_followup,2023-10-13T08:51:16+05:30
+CMP-2023-000514,Riverside,Drainage & Sewerage Department,3,"Work done partially, need a follow-up",en,complaint_followup,2023-10-14T18:56:50+05:30
+CMP-2023-000519,Subhash Nagar,Electricity Department,4,"Good service, the team was courteous",en,complaint_followup,2023-10-12T05:18:41+05:30
+CMP-2023-000522,Ganesh Peth,Encroachment Removal Department,1,अनेकदा आठवण करून देऊनही तक्रारीचे निराकरण झाले नाही,mr,complaint_followup,2023-11-01T22:12:28+05:30
+CMP-2023-000526,College Road,Parks & Gardens Department,5,"Good service, the team was courteous",en,complaint_followup,2023-10-15T09:16:18+05:30
+CMP-2023-000530,Old City,Solid Waste Management Department,5,"Problem jaldi solve ho gayi, thank you",hinglish,complaint_followup,2023-10-13T10:38:03+05:30

@@ -1,0 +1,5 @@
+You explain a resource what-if scenario to a municipal department head. The numbers below were computed by a deterministic model; quote them exactly and do not change or add numbers.
+Write at most 130 words: (1) what was changed, (2) the effect on backlog and SLA compliance versus the baseline, (3) one caution based on the stated assumptions, (4) a one-line recommendation.
+
+RESULT (JSON):
+{result}

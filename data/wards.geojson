@@ -1,0 +1,772 @@
+{
+ "type": "FeatureCollection",
+ "name": "sahyadripur_wards",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W01",
+    "name": "Shivaji Nagar",
+    "population": 33300,
+    "area_sq_km": 1.565,
+    "road_km": 16.4,
+    "water_connections": 4172
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.759983,
+       19.977151
+      ],
+      [
+       73.772864,
+       19.978203
+      ],
+      [
+       73.770995,
+       19.98759
+      ],
+      [
+       73.759397,
+       19.990013
+      ],
+      [
+       73.759983,
+       19.977151
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W02",
+    "name": "Gandhi Chowk",
+    "population": 63300,
+    "area_sq_km": 1.083,
+    "road_km": 12.1,
+    "water_connections": 7203
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.772864,
+       19.978203
+      ],
+      [
+       73.781924,
+       19.979335
+      ],
+      [
+       73.783996,
+       19.986926
+      ],
+      [
+       73.770995,
+       19.98759
+      ],
+      [
+       73.772864,
+       19.978203
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W03",
+    "name": "Lakshmi Colony",
+    "population": 25000,
+    "area_sq_km": 1.533,
+    "road_km": 11.7,
+    "water_connections": 2752
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.781924,
+       19.979335
+      ],
+      [
+       73.797425,
+       19.978564
+      ],
+      [
+       73.797724,
+       19.989236
+      ],
+      [
+       73.783996,
+       19.986926
+      ],
+      [
+       73.781924,
+       19.979335
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W04",
+    "name": "Nehru Park",
+    "population": 40100,
+    "area_sq_km": 1.386,
+    "road_km": 14.9,
+    "water_connections": 5131
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.797425,
+       19.978564
+      ],
+      [
+       73.807077,
+       19.977198
+      ],
+      [
+       73.809911,
+       19.988108
+      ],
+      [
+       73.797724,
+       19.989236
+      ],
+      [
+       73.797425,
+       19.978564
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W05",
+    "name": "Ambedkar Nagar",
+    "population": 47700,
+    "area_sq_km": 1.661,
+    "road_km": 13.7,
+    "water_connections": 6194
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.807077,
+       19.977198
+      ],
+      [
+       73.820669,
+       19.979136
+      ],
+      [
+       73.823368,
+       19.990299
+      ],
+      [
+       73.809911,
+       19.988108
+      ],
+      [
+       73.807077,
+       19.977198
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W06",
+    "name": "Tilak Road",
+    "population": 55300,
+    "area_sq_km": 1.273,
+    "road_km": 10.4,
+    "water_connections": 7700
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.759397,
+       19.990013
+      ],
+      [
+       73.770995,
+       19.98759
+      ],
+      [
+       73.7711,
+       19.998144
+      ],
+      [
+       73.760003,
+       19.998758
+      ],
+      [
+       73.759397,
+       19.990013
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W07",
+    "name": "Sahyadri Heights",
+    "population": 57800,
+    "area_sq_km": 1.708,
+    "road_km": 16.2,
+    "water_connections": 9612
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.770995,
+       19.98759
+      ],
+      [
+       73.783996,
+       19.986926
+      ],
+      [
+       73.782194,
+       20.000745
+      ],
+      [
+       73.7711,
+       19.998144
+      ],
+      [
+       73.770995,
+       19.98759
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W08",
+    "name": "Old City",
+    "population": 59500,
+    "area_sq_km": 2.234,
+    "road_km": 19.8,
+    "water_connections": 10379
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.783996,
+       19.986926
+      ],
+      [
+       73.797724,
+       19.989236
+      ],
+      [
+       73.797351,
+       20.001902
+      ],
+      [
+       73.782194,
+       20.000745
+      ],
+      [
+       73.783996,
+       19.986926
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W09",
+    "name": "Market Yard",
+    "population": 39900,
+    "area_sq_km": 1.561,
+    "road_km": 14.2,
+    "water_connections": 6252
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.797724,
+       19.989236
+      ],
+      [
+       73.809911,
+       19.988108
+      ],
+      [
+       73.807966,
+       19.999473
+      ],
+      [
+       73.797351,
+       20.001902
+      ],
+      [
+       73.797724,
+       19.989236
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W10",
+    "name": "Railway Colony",
+    "population": 38300,
+    "area_sq_km": 1.541,
+    "road_km": 12.4,
+    "water_connections": 5822
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.809911,
+       19.988108
+      ],
+      [
+       73.823368,
+       19.990299
+      ],
+      [
+       73.821113,
+       19.998737
+      ],
+      [
+       73.807966,
+       19.999473
+      ],
+      [
+       73.809911,
+       19.988108
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W11",
+    "name": "College Road",
+    "population": 60900,
+    "area_sq_km": 1.829,
+    "road_km": 21.2,
+    "water_connections": 8490
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.760003,
+       19.998758
+      ],
+      [
+       73.7711,
+       19.998144
+      ],
+      [
+       73.770021,
+       20.011991
+      ],
+      [
+       73.757085,
+       20.011201
+      ],
+      [
+       73.760003,
+       19.998758
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W12",
+    "name": "Ganesh Peth",
+    "population": 42200,
+    "area_sq_km": 1.826,
+    "road_km": 15.9,
+    "water_connections": 7829
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.7711,
+       19.998144
+      ],
+      [
+       73.782194,
+       20.000745
+      ],
+      [
+       73.783467,
+       20.012653
+      ],
+      [
+       73.770021,
+       20.011991
+      ],
+      [
+       73.7711,
+       19.998144
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W13",
+    "name": "Kasturba Nagar",
+    "population": 28800,
+    "area_sq_km": 1.716,
+    "road_km": 18.9,
+    "water_connections": 5105
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.782194,
+       20.000745
+      ],
+      [
+       73.797351,
+       20.001902
+      ],
+      [
+       73.797151,
+       20.010537
+      ],
+      [
+       73.783467,
+       20.012653
+      ],
+      [
+       73.782194,
+       20.000745
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W14",
+    "name": "Rani Laxmibai Nagar",
+    "population": 30300,
+    "area_sq_km": 1.49,
+    "road_km": 14.2,
+    "water_connections": 4931
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.797351,
+       20.001902
+      ],
+      [
+       73.807966,
+       19.999473
+      ],
+      [
+       73.810245,
+       20.01254
+      ],
+      [
+       73.797151,
+       20.010537
+      ],
+      [
+       73.797351,
+       20.001902
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W15",
+    "name": "Industrial Estate",
+    "population": 32700,
+    "area_sq_km": 1.709,
+    "road_km": 13.6,
+    "water_connections": 4877
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.807966,
+       19.999473
+      ],
+      [
+       73.821113,
+       19.998737
+      ],
+      [
+       73.820744,
+       20.010439
+      ],
+      [
+       73.810245,
+       20.01254
+      ],
+      [
+       73.807966,
+       19.999473
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W16",
+    "name": "Riverside",
+    "population": 53600,
+    "area_sq_km": 1.245,
+    "road_km": 11.9,
+    "water_connections": 6190
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.757085,
+       20.011201
+      ],
+      [
+       73.770021,
+       20.011991
+      ],
+      [
+       73.7699,
+       20.020596
+      ],
+      [
+       73.759571,
+       20.021135
+      ],
+      [
+       73.757085,
+       20.011201
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W17",
+    "name": "Hanuman Wadi",
+    "population": 47400,
+    "area_sq_km": 1.575,
+    "road_km": 14.0,
+    "water_connections": 6333
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.770021,
+       20.011991
+      ],
+      [
+       73.783467,
+       20.012653
+      ],
+      [
+       73.785041,
+       20.023271
+      ],
+      [
+       73.7699,
+       20.020596
+      ],
+      [
+       73.770021,
+       20.011991
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W18",
+    "name": "Sai Vihar",
+    "population": 57400,
+    "area_sq_km": 1.786,
+    "road_km": 14.8,
+    "water_connections": 8435
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.783467,
+       20.012653
+      ],
+      [
+       73.797151,
+       20.010537
+      ],
+      [
+       73.797173,
+       20.023742
+      ],
+      [
+       73.785041,
+       20.023271
+      ],
+      [
+       73.783467,
+       20.012653
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W19",
+    "name": "Subhash Nagar",
+    "population": 38800,
+    "area_sq_km": 1.672,
+    "road_km": 18.3,
+    "water_connections": 5445
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.797151,
+       20.010537
+      ],
+      [
+       73.810245,
+       20.01254
+      ],
+      [
+       73.808565,
+       20.02288
+      ],
+      [
+       73.797173,
+       20.023742
+      ],
+      [
+       73.797151,
+       20.010537
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "code": "W20",
+    "name": "Green Valley",
+    "population": 47600,
+    "area_sq_km": 1.273,
+    "road_km": 12.0,
+    "water_connections": 6470
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       73.810245,
+       20.01254
+      ],
+      [
+       73.820744,
+       20.010439
+      ],
+      [
+       73.819629,
+       20.021032
+      ],
+      [
+       73.808565,
+       20.02288
+      ],
+      [
+       73.810245,
+       20.01254
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

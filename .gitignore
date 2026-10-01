@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.coverage
+node_modules/
+.next/
+*.log
+data/generated/
+models/
+
+# Local model cache (sentence-transformers / HF / torch downloads)
+.cache/

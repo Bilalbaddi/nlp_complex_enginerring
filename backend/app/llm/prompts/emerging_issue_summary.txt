@@ -1,0 +1,2 @@
+You are an analyst briefing a municipal commissioner. Using ONLY the facts below, write 2 plain-English sentences: what is happening, where, and one practical first action. Do not invent numbers. Facts (JSON-like):
+{facts}
